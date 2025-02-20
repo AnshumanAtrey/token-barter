@@ -1,6 +1,10 @@
-<h1>TokenBarter</h1>   
+<h1>TokenBarter</h1>
+
+[Visit TokenBarter Live](https://token-barter.netlify.app/)
 
 A modern platform for tokenizing company shares on the blockchain, built with security and compliance in mind.
+
+<img src="public/cover.png" />
 
 ## Technologies
 
@@ -34,3 +38,7 @@ $ npm run build
 # preview production
 $ npm run preview
 ```
+
+## Documentation
+* [Security](https://docs.tokenbarter.io/security/) to learn about our security measures and smart contract implementation.
+* [API](https://docs.tokenbarter.io/api/) to understand how to integrate with our platform.
