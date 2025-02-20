@@ -38,7 +38,3 @@ $ npm run build
 # preview production
 $ npm run preview
 ```
-
-## Documentation
-* [Security](https://docs.tokenbarter.io/security/) to learn about our security measures and smart contract implementation.
-* [API](https://docs.tokenbarter.io/api/) to understand how to integrate with our platform.
